@@ -11,3 +11,5 @@ extend-ignore =
     # See https://github.com/PyCQA/pycodestyle/issues/373
     E203,
     E501
+Residents were being allowed back into the town in small numbers to retrieve belongings when the evacuation order came.
+
